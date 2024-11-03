@@ -50,15 +50,6 @@ As you have noticed this repository is empty. To begin this assignment you must 
 - Console is free of warnings/errors
 - Deploy your application
 
-### Deployment Instructions (GH actions)
-
-[Deployment instructions](https://github.com/prof-tejera/react-deployment-code#github-actions)
-
-## Bonus
-
-- Add each timer to documentation (3pt)
-
-
 ## Dev Setup
 
 **Prerequisite: you have `node` installed on the command line and can run `node --version`**
