@@ -2,7 +2,7 @@
 
 This is the 2nd assignment (A2) for E-39 Design Principles in React. Using our timers from Assignment 1 (A1), we will build a workout app that allows our users to assemble **multiple timers** into a workout queue. This workout queue will be executed in the order that the timers were added. Let's take a look at an example:
 
-![Workout example 1](images/example_workout.png)
+![image](https://github.com/user-attachments/assets/94695108-5b78-4bef-8978-401098694abc)
 
 ## Structural Changes to Context
 
