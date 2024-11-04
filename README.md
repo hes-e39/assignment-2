@@ -4,7 +4,9 @@ This is the 2nd assignment (A2) for E-39 Design Principles in React. Using our t
 
 ## Project setup
 
-You may have noticed that the `src` directory is empty. This is because A2 will build on your code from A1. Before you begin, please copy ONLY the `src` folder from your A1 repo into this one and run `npm install` to get your dependencies installed. 
+**You may have noticed that the `src` directory is empty. This is because A2 will build on your code from A1. Before you begin, please copy ONLY the `src` folder from your A1 repo into this one and run `npm install` to get your dependencies installed.**
+
+NOTE: If you installed any additional dependencies outside of the default set provided by us, then you will have to also install them here with.
 
 ## Timer functionality
 
